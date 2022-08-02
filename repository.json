@@ -1,0 +1,13 @@
+{
+  "author": "erktrek",
+  "gitHubUrl": "https://github.com/adsavia",
+  "packages": [
+    {
+      "id": "f77d037a-b0f6-4034-aade-3edb78f5ed15",
+      "name": "notifyExec",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/adsavia/notifyExec/main/packageManifest.json",
+      "description": "Notification and Execution Driver for Hubitat, requires a separate hub."
+    }
+  ]
+}
